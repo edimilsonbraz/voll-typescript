@@ -1,5 +1,5 @@
-import IProfissional from "./types/IProfissional";
-import useFetch from "./useFetch";
+import IProfissional from "../types/IProfissional";
+import useFetch from "../useFetch";
 
 
 export function useDadosProfissionais() {
