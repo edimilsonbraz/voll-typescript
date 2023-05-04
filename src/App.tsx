@@ -1,3 +1,4 @@
+import { Avaliation } from './components/Avaliation';
 import { Container } from './components/Container';
 import { Footer } from './components/Footer';
 import { Graphic } from './components/Graphic';
@@ -23,8 +24,8 @@ function App() {
         <Titulo>Área Administrativa</Titulo>
         <TableComponent consultas={consultas}/>
         <Graphic consultas={consultas} profissionais={profissionais}/>
+        <Avaliation profissionais={profissionais}/>
       </Container>
-
       <Footer />
     </>
   )

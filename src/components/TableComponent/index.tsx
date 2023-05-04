@@ -32,7 +32,7 @@ export function TableComponent({
           <TableBody>
             {consultas?.map((linha) => {
               return (
-                <LineStyled>
+                <LineStyled key={linha.id}>
                   <CellStyled component="th" scope="row">
                     {new Date(linha.data).toLocaleDateString()}
                   </CellStyled>
