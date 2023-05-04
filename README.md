@@ -1,9 +1,9 @@
 
 # React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components
 
-<img alt="Voll Administrativo" title="#Voll Administrativo" src="assets/voll_01.png" width="900px;"/> <br>
+<img alt="Voll Administrativo" title="#Voll Administrativo" src="public/assets/voll_01.png" width="900px;"/> <br>
 
-<img alt="Voll Administrativo" title="#Voll Administrativo" src="assets/voll_02.png" width="900px;"/>
+<img alt="Voll Administrativo" title="#Voll Administrativo" src="public/assets/voll_02.png" width="900px;"/>
 
 # React com Typescript: desenvolvendo fuma área administrativa
 
